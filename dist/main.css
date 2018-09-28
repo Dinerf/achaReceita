@@ -1,0 +1,32 @@
+body {
+  background-color: #343A40;
+}
+ul {
+  list-style: none;
+}
+
+a:hover {
+  color: greenyellow;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.bg-gray {
+  background-color: gray;
+}
+
+.red {
+  color: red;
+}
+
+.heart:hover {
+  color: red;
+}
+
+a {
+  color: black;
+}
+
+.banner {
+  width: 40vw;
+}
